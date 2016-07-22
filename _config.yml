@@ -1,2 +1,3 @@
 name: Francisco D. Igual
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
